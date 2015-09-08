@@ -5,3 +5,4 @@ Git tracks changes of files.
 git commitor git add
 git test for branch dev.
 Creating a new branch is quick and simple.
+branch management strategy.
